@@ -21,7 +21,7 @@
 - Modificar este `README.md` con este contenido:
 
 ```markdown
-### Alumno: MATIAS GABIRE LOPEZ MUÑOZ
+### Alumno: MATIAS GABRIEL LOPEZ MUÑOZ
 
 #### Comision: DWN2CV
 ```
