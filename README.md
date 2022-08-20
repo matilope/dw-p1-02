@@ -23,7 +23,7 @@
 ```markdown
 ### Alumno: MATIAS GABIRE LOPEZ MUÑOZ
 
-#### Comision: C
+#### Comision: DWN2CV
 ```
 
 - Subir los archivos `index.html`, `index.js` y `README.md`
